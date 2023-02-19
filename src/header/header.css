@@ -1,0 +1,49 @@
+  
+  .headerTitles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Fjalla One', sans-serif;
+    color: #1b1b1b;
+  }
+  
+  .animate__animated {
+    position: absolute;
+    top: 33%;
+    
+    font-size: 50px;
+  }
+  
+  .Titlebigheader {
+    position: absolute;
+    top: 18%;
+    font-size: 100px;
+  }
+  
+  .headerimgh {
+    width: 100%;
+    height: 650px;
+    margin-top: 500px;
+    
+  }
+.img10
+{
+  position: absolute;
+  margin-top: 12%;
+  width: 100px;
+  height: 100px;
+ 
+}
+.icontop{
+  position: absolute;
+  margin-top: 18%;
+  margin-left: 2%;
+
+}
+.imagetext{
+  text-align: justify;
+ 
+
+}
+
+

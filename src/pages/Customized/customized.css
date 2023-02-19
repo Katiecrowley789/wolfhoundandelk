@@ -1,0 +1,51 @@
+
+
+  
+  .Titlebigcustom {
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Fjalla One', sans-serif;
+    color: #1b1b1b;
+    position: absolute;
+    top: 18%;
+    font-size: 100px;
+    display: flex;
+    width: 100%;
+    height: 50px;
+    margin-top: 100px;
+    text-align: center;
+    object-fit:contain;
+  }
+  
+  
+ .Textintrocustom{
+  flex-direction: column;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 40%;
+    font-family:  "Fjalla One", arial, sans-serif;
+    font-size: 48px;
+    color: #000000;
+    width: 100%;
+    height: 50px;
+    margin-top: 50px;
+    text-align: center;
+    object-fit:contain;
+ }
+.photo1{
+    margin-left: 28%;
+    width:940px; 
+    height: auto;
+
+    color: black;
+    box-shadow: 5px 5px;
+}
+.customized{
+  background-image: url("../About/images/aboutbackground.png");
+  background-size:cover;
+
+}
+.photo5{
+  width: 2000px;
+}

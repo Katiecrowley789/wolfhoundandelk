@@ -1,0 +1,53 @@
+.action{
+    width:100%;
+
+    
+}
+.sustainability{
+background-image: url("../About/images/aboutbackground.png");
+background-size: cover;
+}
+.sustitle{
+ 
+    font-size: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Fjalla One', sans-serif;
+    color: #1b1b1b;
+    font-size: 50px;
+    padding: 100px;
+}
+.sustext{
+    
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:  "Source Sans Pro", arial, sans-serif;
+    color: #1b1b1b;
+    padding: 50px;
+    letter-spacing: 2px;
+    margin-top: 30px;
+    line-height: 150%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 30px;
+
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  .suscolumn {
+    float: left;
+    width: 33.33%;
+    padding: 14px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .susrow::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
